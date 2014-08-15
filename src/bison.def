@@ -1,0 +1,8 @@
+LIBRARY        BISON INITINSTANCE TERMINSTANCE
+DESCRIPTION    'Python Extension DLL v1.0 for Access to Fnorb'
+PROTMODE
+DATA           MULTIPLE NONSHARED
+
+EXPORTS
+               initbison
+

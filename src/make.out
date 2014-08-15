@@ -1,0 +1,28 @@
+warning EDC1010: Bad or non-existent path or file name encountered in option /fm.
+ILink : fatal error LNK1094: could not find file Python15.lib
+warning EDC1010: Bad or non-existent path or file name encountered in option /fm.
+
+F:\pytest\Add-Ons\Fnorb\src\obj\cdrmodule.obj(cdrmodule.c) : error LNK2029: "longlong_to_py_long" : unresolved external
+F:\pytest\Add-Ons\Fnorb\src\obj\cdrmodule.obj(cdrmodule.c) : error LNK2029: "ulonglong_to_py_long" : unresolved external
+F:\pytest\Add-Ons\Fnorb\src\obj\cdrmodule.obj(cdrmodule.c) : error LNK2029: "longlong_from_py_long" : unresolved external
+F:\pytest\Add-Ons\Fnorb\src\obj\cdrmodule.obj(cdrmodule.c) : error LNK2029: "ulonglong_from_py_long" : unresolved external
+
+
+There were 4 errors detected
+warning EDC1010: Bad or non-existent path or file name encountered in option /fm.
+
+F:\pytest\Add-Ons\Fnorb\src\obj\cdrmodule.obj(cdrmodule.c) : error LNK2029: "longlong_to_py_long" : unresolved external
+F:\pytest\Add-Ons\Fnorb\src\obj\cdrmodule.obj(cdrmodule.c) : error LNK2029: "ulonglong_to_py_long" : unresolved external
+F:\pytest\Add-Ons\Fnorb\src\obj\cdrmodule.obj(cdrmodule.c) : error LNK2029: "longlong_from_py_long" : unresolved external
+F:\pytest\Add-Ons\Fnorb\src\obj\cdrmodule.obj(cdrmodule.c) : error LNK2029: "ulonglong_from_py_long" : unresolved external
+
+
+There were 4 errors detected
+warning EDC1010: Bad or non-existent path or file name encountered in option /fm.
+ILink : warning LNK4045: name of output file is "..\..\..\Lib\lib-dynload\cdr.pyd"
+warning EDC1010: Bad or non-existent path or file name encountered in option /fm.
+ILink : warning LNK4045: name of output file is "..\..\..\Lib\lib-dynload\bison.pyd"
+warning EDC1010: Bad or non-existent path or file name encountered in option /fm.
+ILink : warning LNK4045: name of output file is "..\..\..\Lib\lib-dynload\cdr.pyd"
+warning EDC1010: Bad or non-existent path or file name encountered in option /fm.
+ILink : warning LNK4045: name of output file is "..\..\..\Lib\lib-dynload\bison.pyd"

@@ -1,0 +1,17 @@
+Fnorb has 2 extension modules:-
+
+	- cdr.pyd
+	- bison.pyd
+
+To build the extension modules:-
+
+C> nmake
+
+Be sure the C:\Python\Lib\lib-dynload directory is
+in your PYTHONPATH environment variable, so that
+the extension modules will be seen by the Python
+interpreter.
+
+- Packaged for OS/2 by:
+
+  Jeff Rush <jrush@summit-research.com>
